@@ -1,6 +1,6 @@
-# Inshackle v1.0
-## Author: github.com/thelinuxchoice/inshackle
-## IG: instagram.com/linux_choice
+# hedarhack v1.0
+## Author: github.com/zr_za/hedarhack
+## IG: instagram.com/_.17k
 ### Don't copy this code without give me the credits, nerd! Please read the License 
 
 Instagram hacks: Track unfollowers, Increase your followers, Download Stories, etc
@@ -15,14 +15,12 @@ Instagram hacks: Track unfollowers, Increase your followers, Download Stories, e
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/inshackle
-cd inshackle
-bash inshackle.sh
+git clone https://github.com/zr_za/hedarhack
+cd hedarhack
+bash hedarhack.sh
 ```
 
 ### Donate!
 Support the authors:
-### Paypal:
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CLKRT5QXXFJY4&source=url
-### LiberaPay:
-<noscript><a href="https://liberapay.com/thelinuxchoice/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+### telegram :
+https://t.me/zr_za
